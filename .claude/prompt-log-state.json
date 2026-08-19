@@ -1,0 +1,276 @@
+{
+  "sessions": {
+    "ed0d0d86-16c8-47c7-8ae9-7ae9d1292b96": {
+      "slug": "hi",
+      "started": "2026-08-14T23:01:05.302Z"
+    },
+    "682527c0-cbb4-41c7-9dbc-67a8f5a256be": {
+      "slug": "all-the-prompts-should-be",
+      "started": "2026-08-15T00:32:22.362Z",
+      "sequence": 3,
+      "date": "2026-08-15",
+      "promptCount": 2
+    },
+    "ce743c54-489c-411b-9d79-222d3c1d4c17": {
+      "slug": "hi",
+      "sequence": 4,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T00:45:18.471Z"
+    },
+    "3824bda2-bb24-4e1a-9c1f-9ab705611bd8": {
+      "slug": "goal-this-folder-is-reserved",
+      "sequence": 5,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T00:48:44.587Z"
+    },
+    "069bd909-64be-4d71-a422-bd5b82008ff9": {
+      "slug": "goal-this-folder-is-reserved",
+      "sequence": 6,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T00:51:14.852Z"
+    },
+    "ea5eb85f-bb3a-44e8-9d90-118cbb7bb803": {
+      "slug": "execute-the-plan-docs-plans",
+      "sequence": 7,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T01:00:57.131Z"
+    },
+    "c9618dc3-0171-43bd-ab57-2e7e387680e9": {
+      "slug": "use-find-skills-for-this-plan",
+      "sequence": 8,
+      "date": "2026-08-15",
+      "promptCount": 4,
+      "started": "2026-08-15T01:03:43.781Z"
+    },
+    "255f4bdc-ff92-4228-9dde-f656c2b8720b": {
+      "slug": "execute-the-plan-docs-plans",
+      "sequence": 9,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T01:16:48.283Z"
+    },
+    "73fb419e-fa8f-40c3-9c3c-faf5840d8846": {
+      "slug": "not-check-that-this-prompt",
+      "sequence": 10,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T02:12:31.570Z"
+    },
+    "e739f35f-af71-41af-a354-32bf4ea59040": {
+      "slug": "hi",
+      "sequence": 11,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T02:14:28.880Z"
+    },
+    "385c5cd6-42df-4c76-aad1-f9be70e6ba63": {
+      "slug": "convert-into-pptx",
+      "sequence": 12,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T02:53:09.872Z"
+    },
+    "4930aafe-ebf4-46a8-8beb-cf8d26bb2478": {
+      "slug": "decks-spec-driven-development-crash-course-deck-html-and",
+      "sequence": 13,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T03:09:19.362Z"
+    },
+    "d935ba2b-b8ea-4dcd-8ce3-f1a4a9c9002f": {
+      "slug": "decks-spec-driven-development-crash-course-deck-html-and",
+      "sequence": 14,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T03:10:43.634Z"
+    },
+    "01c556c0-9308-40a0-a953-b37e87030883": {
+      "slug": "use-find-skills-for-this-plan",
+      "sequence": 15,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T03:32:01.067Z"
+    },
+    "01a82b57-6703-4067-8d37-6176b71772c1": {
+      "slug": "execute-the-plan-in-docs",
+      "sequence": 16,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T03:39:07.862Z"
+    },
+    "49b64aae-e0d0-44f1-9595-585a39b7b138": {
+      "slug": "create-slide-deck-from-source",
+      "sequence": 17,
+      "date": "2026-08-15",
+      "promptCount": 3,
+      "started": "2026-08-15T08:59:17.341Z"
+    },
+    "faa36ef4-fe60-43a1-8fcf-1562e1cfd1da": {
+      "slug": "create-slide-deck-from-source",
+      "sequence": 18,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T09:12:52.990Z"
+    },
+    "a64837ca-7069-489c-ae24-6b158293dbbd": {
+      "slug": "check-decks-demo-deck-deck-html",
+      "sequence": 19,
+      "date": "2026-08-15",
+      "promptCount": 5,
+      "started": "2026-08-15T09:50:32.747Z"
+    },
+    "2d80fc5c-a55c-41cc-8843-d5459dd96713": {
+      "slug": "just-how-much-this-plan",
+      "sequence": 20,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T10:26:07.704Z"
+    },
+    "f688e0b6-bb2d-406d-947d-64580fdfc097": {
+      "slug": "just-how-much-this-plan",
+      "sequence": 21,
+      "date": "2026-08-15",
+      "promptCount": 3,
+      "started": "2026-08-15T10:26:47.671Z"
+    },
+    "85a0ab86-c86e-4575-bf22-2efc6f8c8233": {
+      "slug": "just-how-much-this-plan",
+      "sequence": 22,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T10:43:37.873Z"
+    },
+    "a5fb3b58-71b1-41fb-b207-f701b0305a35": {
+      "slug": "execute-the-plan-docs-plans",
+      "sequence": 23,
+      "date": "2026-08-15",
+      "promptCount": 2,
+      "started": "2026-08-15T10:47:18.634Z"
+    },
+    "fa16f831-0034-4233-8e01-66d6da7c1274": {
+      "slug": "convert-the-decks-spec-driven-development-crash-course-deck",
+      "sequence": 24,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T13:35:05.113Z"
+    },
+    "8a8792c0-922d-48e5-a43d-8669c2a847ce": {
+      "slug": "convert-the-decks-spec-driven-development-crash-course-deck",
+      "sequence": 25,
+      "date": "2026-08-15",
+      "promptCount": 1,
+      "started": "2026-08-15T13:37:14.493Z"
+    },
+    "587d4526-9223-425b-9b76-f424e3ef8d69": {
+      "slug": "create-slide-deck-from-source",
+      "sequence": 26,
+      "date": "2026-08-15",
+      "promptCount": 3,
+      "started": "2026-08-15T17:01:35.705Z"
+    },
+    "ff34f002-a918-461c-a706-814f1984f455": {
+      "slug": "i-want-to-create-the",
+      "sequence": 27,
+      "date": "2026-08-16",
+      "promptCount": 1,
+      "started": "2026-08-15T19:10:43.681Z"
+    },
+    "ff8f8404-37a2-49c2-83cf-9709a3b14320": {
+      "slug": "background-agent-explore-pptx-export",
+      "sequence": 28,
+      "date": "2026-08-16",
+      "promptCount": 1,
+      "started": "2026-08-15T19:11:13.028Z"
+    },
+    "6abf4a93-8a40-448c-9f3b-fa8d1fa2ffc6": {
+      "slug": "i-want-to-create-the",
+      "sequence": 29,
+      "date": "2026-08-16",
+      "promptCount": 1,
+      "started": "2026-08-15T19:11:58.200Z"
+    },
+    "cf104821-bc2d-44ad-86b3-067457f94df5": {
+      "slug": "is-it-the-hook-working",
+      "sequence": 1,
+      "date": "2026-08-17",
+      "promptCount": 1,
+      "started": "2026-08-17T00:35:25.114Z"
+    },
+    "91a1833e-11e8-479c-af1e-b309f3ae4d6e": {
+      "slug": "i-want-to-change-in",
+      "sequence": 2,
+      "date": "2026-08-17",
+      "promptCount": 3,
+      "started": "2026-08-17T00:55:28.308Z",
+      "questionCount": 0
+    },
+    "53960fe8-a9ed-49f4-bbab-3b9491a883c4": {
+      "slug": "spec-create-todo-app",
+      "sequence": 3,
+      "date": "2026-08-17",
+      "promptCount": 5,
+      "questionCount": 3,
+      "started": "2026-08-17T01:04:26.019Z"
+    },
+    "b204d23b-99ed-469f-b57d-830564102aff": {
+      "slug": "spec-create-todo-app",
+      "sequence": 4,
+      "date": "2026-08-17",
+      "promptCount": 3,
+      "questionCount": 3,
+      "started": "2026-08-17T01:07:52.059Z"
+    },
+    "c5439a23-93f8-4751-b0de-4ae6d1c77f72": {
+      "slug": "implement-the-plan",
+      "sequence": 5,
+      "date": "2026-08-17",
+      "promptCount": 1,
+      "questionCount": 0,
+      "started": "2026-08-17T01:30:31.876Z"
+    },
+    "0304550c-77ae-46d2-ad35-a9d857370ce4": {
+      "slug": "spec-create-a-todo-app",
+      "sequence": 8,
+      "date": "2026-08-18",
+      "promptCount": 1,
+      "questionCount": 3,
+      "started": "2026-08-18T09:41:37.712Z"
+    },
+    "94b9ecac-868a-46d0-9fc6-98b8b3bf8025": {
+      "slug": "spec-create-a-todo-app",
+      "sequence": 9,
+      "date": "2026-08-18",
+      "promptCount": 3,
+      "questionCount": 3,
+      "started": "2026-08-18T09:45:33.060Z"
+    },
+    "683fa93a-a75f-49ff-b56f-d565c6bc0c6a": {
+      "slug": "spec-create-a-todo-app",
+      "sequence": 10,
+      "date": "2026-08-18",
+      "promptCount": 3,
+      "questionCount": 4,
+      "started": "2026-08-18T09:52:51.336Z"
+    },
+    "f22aebab-6429-4544-a5ff-746a99cb9a35": {
+      "slug": "spec-create-a-todo-app",
+      "sequence": 11,
+      "date": "2026-08-18",
+      "promptCount": 2,
+      "questionCount": 1,
+      "started": "2026-08-18T10:00:18.711Z"
+    },
+    "c7f0cdee-6f47-4669-90a6-72182cfe7758": {
+      "slug": "spec-create-a-todo-app",
+      "sequence": 8,
+      "date": "2026-08-18",
+      "promptCount": 3,
+      "questionCount": 7,
+      "started": "2026-08-18T10:06:44.369Z"
+    }
+  }
+}
